@@ -13,7 +13,7 @@ This repository contains the code for a CRUD (Create, Read, Update, Delete) API 
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/CRUD-API.git
+   git clone https://github.com/Varunyadavgithub/CRUD-API.git
    ```
 
 2. Install dependencies.
@@ -47,6 +47,5 @@ This repository contains the code for a CRUD (Create, Read, Update, Delete) API 
 - `POST /api/products`: Create a new products.
 - `GET /api/products`: Retrieve all products.
 - `GET /api/products/:id`: Retrieve a specific products by ID.
-- `PUT /api/products/:id`: Update a specific products by ID.
-- `DELETE /api/products/:id`: Delete a specific products by ID.
-- 
+- `PUT /api/products/:id`: Update a specific product by ID.
+- `DELETE /api/products/:id`: Delete a specific product by ID.
